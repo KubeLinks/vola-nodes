@@ -20,6 +20,7 @@
     "storage_nodes": [
       {
         "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+        "storage_node_name": "The Kube",
         "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
         "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
       }
