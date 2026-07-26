@@ -25,8 +25,8 @@
       }
     ],
     "verification": {
-      "nonce": "ffd0cbffab8cf97de20275061215abd9",
-      "remark_message": "vt-registry:v1:owner=5FNqzGdgefp9RxS6qmcJwvGAFaqFtv7R43JzChM9jwri9aKg:verification=ffd0cbffab8cf97de20275061215abd9",
+      "nonce": "de94b367b43817d5ccc9e3ffadbc6717",
+      "remark_message": "vt-registry:v1:owner=5FNqzGdgefp9RxS6qmcJwvGAFaqFtv7R43JzChM9jwri9aKg:verification=de94b367b43817d5ccc9e3ffadbc6717",
       "hash": "0x26d1035b5ac7f6db9f7e2e66b37a8f9b002f78d0fdda7a83bc99c2df6e2702b8"
     }
   }
