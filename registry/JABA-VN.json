@@ -20,7 +20,6 @@
     "storage_nodes": [
       {
         "operator_account": "5FNqzGdgefp9RxS6qmcJwvGAFaqFtv7R43JzChM9jwri9aKg",
-        "storage_node_name": "JABA-SN",
         "url_png_icon_64x64": "https://raw.githubusercontent.com/jabadabadou/image/refs/heads/main/jaba%20png.png",
         "url_png_logo": "https://raw.githubusercontent.com/jabadabadou/image/refs/heads/main/jaba%20png.png"
       }
