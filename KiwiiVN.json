@@ -1,0 +1,27 @@
+ {
+    "owner": {
+      	"owner_account": "5DWhmYLQgjWjbnadzDm4y1oErE9wwjRu6dFJyTjdSpVVxtVX",
+      	"owner_name": "",
+      "socials": ""
+    },
+    "validator_node": [
+      {
+        "operator_account": "5DWhmYLQgjWjbnadzDm4y1oErE9wwjRu6dFJyTjdSpVVxtVX",
+        "name": "Kiwii",
+        "url_png_icon_64x64": "",
+        "url_png_logo": ""
+      }
+    ],
+    "storage_nodes": [
+      {
+        "operator_account": "",
+        "url_png_icon_64x64": "",
+        "url_png_logo": ""
+      }
+    ],
+    "verification": {
+      "nonce": "0e3b294a0147d73708c405207cb272a5",
+      "remark_message": "vt-registry:v1:owner=5DWhmYLQgjWjbnadzDm4y1oErE9wwjRu6dFJyTjdSpVVxtVX:verification=0e3b294a0147d73708c405207cb272a5",
+      "hash": "0xde1d040964799efe5e047f4fb84d41547ac6dd810082b8c11f8f85a4b76b3c39"
+    }
+  }
