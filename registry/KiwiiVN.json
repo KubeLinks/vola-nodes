@@ -8,8 +8,8 @@
       {
         "operator_account": "5DWhmYLQgjWjbnadzDm4y1oErE9wwjRu6dFJyTjdSpVVxtVX",
         "name": "Kiwii",
-        "url_png_icon_64x64": "",
-        "url_png_logo": ""
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/KubeLinks/vola-nodes/main/VolaTools_Icon_Transparent.png",
+        "url_png_logo": "https://raw.githubusercontent.com/KubeLinks/vola-nodes/main/VolaTools_Icon_Transparent.png"
       }
     ],
     "storage_nodes": [
